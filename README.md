@@ -63,7 +63,7 @@ Adoro aprender coisas novas e experimentar ideias criativas no GitHub e em proje
 
 ---
 
-![Ford Mustang Shelby GT500](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
+![Ford Mustang Shelby GT500]([https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnU0Mm5yMHQzNDQ5dWl4Z2QyeXFicmc4bXgyczBrYTBuZ3U4c24yaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sXvlUV184hl4Y/giphy.gif))
 
 ---
 
