@@ -1,6 +1,4 @@
-![Banner](https://www.bing.com/images/search?view=detailV2&ccid=yyFW3elz&id=A226358A0C9CA1B439E6E48468DDCA61C2BFF100&thid=OIP.yyFW3elzKFlmqJp5pXOqDAHaEI&mediaurl=https%3a%2f%2fmedia.tenor.com%2fyhakYprVrt0AAAAC%2fford-mustang-cars.gif&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.cb2156dde973285966a89a79a573aa0c%3frik%3dAPG%252fwmHK3WiE5A%26pid%3dImgRaw%26r%3d0&exph=278&expw=498&q=loop+gif+mustang&FORM=IRPRST&ck=E16CB507A6BC7116977651FFDA58E6E5&selectedIndex=2&itb=0)
-
-# Olá, eu sou Samuel 👋
+# ![Banner](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&color=FF5733&center=true&vCenter=true&width=800&lines=Olá,+eu+sou+Samuel+👋;Programador+Fullstack+%7C+Dev+Curioso)
 
 ## 👨‍💻 Apresentação
 Sou programador **Fullstack**, apaixonado por criar aplicativos, jogos e experiências interativas.  
@@ -36,19 +34,21 @@ Adoro aprender coisas novas e experimentar ideias criativas no GitHub e em proje
 
 ## 🚀 Projetos
 - [Zimerc](https://github.com/Zidan-09/Zimerc) - App mobile para vendedores com funcionalidades online/offline  
+- [GdF – Gerenciamento de Filas (Prova de POO, ED e BD)](https://github.com/Zidan-09/ProjetoInterdiciplinar_GdF) - Sistema para organizar filas em pronto-socorros  
 - [Gatinhos Ilhados (Fase de planejamento)](ainda_sem_repositório) - Jogo offline fofo em 2D ainda na fase de planejamento  
-
----
-
-## 📝 Repositórios de Estudo
-- [Creatures Game (Prova de POO)](https://github.com/Zidan-09/JogoCriaturas) - Jogo de terminal sobre batalhas de criaturas mitológicas
-- [GdF – Gerenciamento de Filas (Prova de POO, ED e BD)](https://github.com/Zidan-09/ProjetoInterdiciplinar_GdF) - Sistema para organizar filas em pronto-socorros
 
 ---
 
 ## 🌐 Redes Sociais
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuelbackenddev/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/samuelbackenddev/?next=%2F)
+
+---
+
+## 🎉 Badges Divertidos
+![Coffee Lover](https://img.shields.io/badge/Coffee%20Lover-FF5733?style=for-the-badge&logo=coffee&logoColor=white)
+![Gamer](https://img.shields.io/badge/Gamer-8A2BE2?style=for-the-badge&logo=joystick&logoColor=white)
+![Cat Lover](https://img.shields.io/badge/Cat%20Lover-F7C8E0?style=for-the-badge&logo=cat&logoColor=black)
 
 ---
 
@@ -63,3 +63,6 @@ Adoro aprender coisas novas e experimentar ideias criativas no GitHub e em proje
 ## 📊 Estatísticas
 ![Zidan-09 GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zidan-09&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zidan-09&layout=compact&theme=radical)
+
+## 📈 Contribuições
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Zidan-09&theme=radical)
