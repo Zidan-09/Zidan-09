@@ -34,21 +34,24 @@ Adoro aprender coisas novas e experimentar ideias criativas no GitHub e em proje
 
 ## 🚀 Projetos
 - [Zimerc](https://github.com/Zidan-09/Zimerc) - App mobile para vendedores com funcionalidades online/offline  
-- [GdF – Gerenciamento de Filas (Prova de POO, ED e BD)](https://github.com/Zidan-09/ProjetoInterdiciplinar_GdF) - Sistema para organizar filas em pronto-socorros  
 - [Gatinhos Ilhados (Fase de planejamento)](ainda_sem_repositório) - Jogo offline fofo em 2D ainda na fase de planejamento  
+
+---
+
+## 📝 Repositórios de Estudo
+- [GdF – Gerenciamento de Filas (Prova de POO, ED e BD)](https://github.com/Zidan-09/ProjetoInterdiciplinar_GdF) - Sistema para organizar filas em pronto-socorros  
+- [Creatures Game (Prova de POO)](https://github.com/Zidan-09/JogoCriaturas) - Jogo de terminal sobre batalhas de criaturas mitológicas
+
+---
+
+## 🤝 Contribuições Externas
+- [Prova POO em equipe](https://github.com/gaboliveira-alt/prova-poo) - Contribuí para obter alta pontuação  
 
 ---
 
 ## 🌐 Redes Sociais
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuelbackenddev/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/samuelbackenddev/?next=%2F)
-
----
-
-## 🎉 Badges Divertidos
-![Coffee Lover](https://img.shields.io/badge/Coffee%20Lover-FF5733?style=for-the-badge&logo=coffee&logoColor=white)
-![Gamer](https://img.shields.io/badge/Gamer-8A2BE2?style=for-the-badge&logo=joystick&logoColor=white)
-![Cat Lover](https://img.shields.io/badge/Cat%20Lover-F7C8E0?style=for-the-badge&logo=cat&logoColor=black)
 
 ---
 
@@ -60,8 +63,12 @@ Adoro aprender coisas novas e experimentar ideias criativas no GitHub e em proje
 
 ---
 
+![Ford Mustang Shelby GT500](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
+
+---
+
 ## 📊 Estatísticas
-![Zidan-09 GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zidan-09&show_icons=true&theme=radical)
+![Zidan-09 GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zidan-09&show_icons=true&theme=radical&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zidan-09&layout=compact&theme=radical)
 
 ## 📈 Contribuições
