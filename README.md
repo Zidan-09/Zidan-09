@@ -58,12 +58,12 @@ Adoro aprender coisas novas e experimentar ideias criativas no GitHub e em proje
 ## ☕ Informações Divertidas
 - Amo café ☕  
 - Apaixonado por gatinhos 🐱  
-- Adoro easter eggs e surpresas nos meus projetos 🎁  
+- Amo easter eggs e surpresas nos meus projetos 🎁  
 - Sempre tentando adicionar um toque de diversão em tudo que faço 😄  
 
 ---
 
-![Ford Mustang Shelby GT500]([https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnU0Mm5yMHQzNDQ5dWl4Z2QyeXFicmc4bXgyczBrYTBuZ3U4c24yaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sXvlUV184hl4Y/giphy.gif))
+![Div](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&color=4169e1&center=true&vCenter=true&width=800&lines=Olá,+eu+sou+Samuel+👋;Programador+Fullstack+%7C+Dev+Curioso)
 
 ---
 
