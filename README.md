@@ -1,3 +1,5 @@
+![Banner](https://www.bing.com/images/search?view=detailV2&ccid=yyFW3elz&id=A226358A0C9CA1B439E6E48468DDCA61C2BFF100&thid=OIP.yyFW3elzKFlmqJp5pXOqDAHaEI&mediaurl=https%3a%2f%2fmedia.tenor.com%2fyhakYprVrt0AAAAC%2fford-mustang-cars.gif&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.cb2156dde973285966a89a79a573aa0c%3frik%3dAPG%252fwmHK3WiE5A%26pid%3dImgRaw%26r%3d0&exph=278&expw=498&q=loop+gif+mustang&FORM=IRPRST&ck=E16CB507A6BC7116977651FFDA58E6E5&selectedIndex=2&itb=0)
+
 # Olá, eu sou Samuel 👋
 
 ## 👨‍💻 Apresentação
