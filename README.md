@@ -63,7 +63,7 @@ Adoro aprender coisas novas e experimentar ideias criativas no GitHub e em proje
 
 ---
 
-![Div](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&color=4169e1&center=true&vCenter=true&width=800&lines=Veja-Minhas-Estatísticas-📊;Sempre-Pensando-Em-Algo-Novo!)
+![Div](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&color=4169e1&center=true&vCenter=true&width=800&lines=Veja+Minhas+Estatísticas+📊;Sempre+Pensando+Em+Algo+Novo!)
 
 ---
 
