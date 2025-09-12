@@ -34,7 +34,7 @@ Adoro aprender coisas novas e experimentar ideias criativas no GitHub e em proje
 
 ## 🚀 Projetos
 - [Zimerc](https://github.com/Zidan-09/Zimerc) - App mobile para vendedores com funcionalidades online/offline  
-- [Gatinhos Ilhados (Fase de planejamento)](ainda_sem_repositório) - Jogo offline fofo em 2D ainda na fase de planejamento  
+- [Letra a Letra](https://github.com/Zidan-09/Letra-a-Letra) - Jogo multiplayer competitivo com inspiração em batalha naval e caça-palavras  
 
 ---
 
