@@ -2,7 +2,7 @@
 
 ## 👨‍💻 Apresentação
 Sou programador **Fullstack**, apaixonado por criar aplicativos, jogos e experiências interativas.  
-Adoro aprender coisas novas e experimentar ideias criativas no GitHub e em projetos pessoais.
+Amo aprender coisas novas e experimentar ideias criativas no GitHub e em projetos pessoais.
 
 ---
 
@@ -15,7 +15,6 @@ Adoro aprender coisas novas e experimentar ideias criativas no GitHub e em proje
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![React Router DOM](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-token&logoColor=white)
 ![bcrypt](https://img.shields.io/badge/bcrypt-000000?style=for-the-badge&logo=appveyor&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
