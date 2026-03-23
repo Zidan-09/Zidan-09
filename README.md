@@ -156,8 +156,8 @@ Tenho grande interesse em arquitetura de sistemas, boas práticas e criação de
 
 <div align="center">
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Zidan-09&show_icons=true&theme=radical&include_all_commits=true" width="400" height="180" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zidan-09&layout=compact&theme=radical" width="350" height="180" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Zidan-09&show_icons=true&theme=radical&include_all_commits=true" width="400" heigth="180" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zidan-09&layout=compact&theme=radical" width="350" heigth="180" />
   </div>
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zidan-09&theme=radical"/>
