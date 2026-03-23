@@ -130,22 +130,28 @@ Busco escrever código limpo, testável e orientado a boas práticas.
 <h2>🚀 Projetos em Destaque</h2>
 
 <div align="center">
-  <div style="width:45%; display:inline-block; margin:10px; border-radius:12px; overflow:hidden; border:1px solid #303030; background:#1e1e1e;">
-    <img src="[URL_DA_IMAGEM_LETRA](https://image2url.com/r2/default/images/1774297377864-e03e684d-f28f-4ab8-8a76-69164fa48843.png)" width="100%"/>
-    <div style="padding:12px; color:white;">
-      <a href="https://github.com/Zidan-09/Letra-a-Letra"><b style="color:white;">Letra a Letra</b></a><br><br>
-      🎮 Jogo multiplayer competitivo inspirado em batalha naval + caça-palavras<br><br>
-      <b>Stack:</b> Spring Boot • WebSocket • Godot • PostgreSQL • Redis
+
+  <a href="https://github.com/Zidan-09/Letra-a-Letra" style="text-decoration:none;">
+    <div style="width:45%; display:inline-block; margin:10px; border-radius:12px; overflow:hidden; border:1px solid #303030; background:#1e1e1e; box-shadow:0 4px 10px rgba(0,0,0,0.4);">
+      <img src="https://image2url.com/r2/default/images/1774297377864-e03e684d-f28f-4ab8-8a76-69164fa48843.png" width="100%"/>
+      <div style="padding:16px; color:white; text-align:left;">
+        <b>Letra a Letra</b><br><br>
+        🎮 Jogo multiplayer competitivo inspirado em batalha naval + caça-palavras<br><br>
+        <b>Stack:</b> Spring Boot • WebSocket • Godot • PostgreSQL • Redis
+      </div>
     </div>
-  </div>
-  <div style="width:45%; display:inline-block; margin:10px; border-radius:12px; overflow:hidden; border:1px solid #303030; background:#1e1e1e;">
-    <img src="[URL_DA_IMAGEM_SIMONE](https://image2url.com/r2/default/images/1774297452893-d0d5c808-402d-4224-ac24-667bac8aca8a.png)" width="100%"/>
-    <div style="padding:12px; color:white;">
-      <a href="https://github.com/Zidan-09/simone-festas-application"><b style="color:white;">Simone Festas</b></a><br><br>
-      🛒 E-commerce para aluguel de artigos de festa<br><br>
-      <b>Stack:</b> Next.js • PostgreSQL • Vercel
+  </a>
+
+  <a href="https://github.com/Zidan-09/simone-festas-application" style="text-decoration:none;">
+    <div style="width:45%; display:inline-block; margin:10px; border-radius:12px; overflow:hidden; border:1px solid #303030; background:#1e1e1e; box-shadow:0 4px 10px rgba(0,0,0,0.4);">
+      <img src="https://image2url.com/r2/default/images/1774297452893-d0d5c808-402d-4224-ac24-667bac8aca8a.png" width="100%"/>
+      <div style="padding:16px; color:white; text-align:left;">
+        <b>Simone Festas</b><br><br>
+        🛒 E-commerce para aluguel de artigos de festa<br><br>
+        <b>Stack:</b> Next.js • PostgreSQL • Vercel
+      </div>
     </div>
-  </div>
+  </a>
 
 </div>
 
