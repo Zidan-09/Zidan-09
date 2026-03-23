@@ -1,5 +1,3 @@
-
-
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&color=FF5733&center=true&vCenter=true&width=800&lines=Olá,+eu+sou+Samuel+👋;Fullstack+Developer+em+evolução;Sempre+aprendendo+algo+novo+🚀" />
 </h1>
@@ -21,14 +19,14 @@ Busco escrever código limpo, testável e orientado a boas práticas.
 ---
 
 <h3>🔥 Stack Principal</h3>
-<p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 </p>
 
 ---
-
 
 <h2>🧰 Tecnologias & Stacks</h2>
 
@@ -41,10 +39,10 @@ Busco escrever código limpo, testável e orientado a boas práticas.
 
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs&theme=dark&perline=6"/>
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs&theme=dark&perline=6" width="300"/>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express&theme=dark&perline=4"/>
+      <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express&theme=dark&perline=4" width="300"/>
     </td>
   </tr>
 
@@ -55,12 +53,11 @@ Busco escrever código limpo, testável e orientado a boas práticas.
 
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=react&theme=dark&perline=1"/>
-      <br>
+      <img src="https://skillicons.dev/icons?i=react&theme=dark" width="120"/><br><br>
       <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis&theme=dark&perline=4"/>
+      <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis&theme=dark&perline=4" width="300"/>
     </td>
   </tr>
 
@@ -71,7 +68,7 @@ Busco escrever código limpo, testável e orientado a boas práticas.
 
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,vercel&theme=dark&perline=5"/>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,vercel&theme=dark&perline=5" width="300"/>
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white"/>
@@ -102,30 +99,6 @@ Busco escrever código limpo, testável e orientado a boas práticas.
 </p>
 
 ---
-
-<h2>🌱 Soft Skills</h2>
-
-<ul>
-  <li>Trabalho em equipe 🤝</li>
-  <li>Liderança 💼</li>
-  <li>Resolução de problemas 🧩</li>
-  <li>Aprendizado contínuo 📚</li>
-  <li>Criatividade 🎨</li>
-  <li>Gestão de tempo ⏰</li>
-</ul>
-
----
-
-<h2>📚 Atualmente estudando</h2>
-
-<ul>
-  <li>Arquitetura com Spring Boot</li>
-  <li>Testes automatizados</li>
-  <li>Otimização de APIs REST</li>
-</ul>
-
----
-
 
 <h2>🚀 Projetos em Destaque</h2>
 
@@ -162,12 +135,12 @@ Busco escrever código limpo, testável e orientado a boas práticas.
 <ul>
   <li>
     <a href="https://github.com/Zidan-09/ProjetoInterdiciplinar_GdF">GdF</a><br>
-    → Sistema de gerenciamento de filas (Typescript + MySQL + Estruturas de Dados)
+    → Sistema de gerenciamento de filas (TypeScript + MySQL + Estruturas de Dados)
   </li>
   <br>
   <li>
     <a href="https://github.com/Zidan-09/JogoCriaturas">Creatures Game</a><br>
-    → Jogo de terminal (Typescript + Programação Orientada a Objetos)
+    → Jogo de terminal (TypeScript + POO)
   </li>
 </ul>
 
@@ -180,7 +153,7 @@ Busco escrever código limpo, testável e orientado a boas práticas.
     <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
   </a>
   <a href="https://github.com/Zidan-09">
-	  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
   </a>
 </p>
 
@@ -195,12 +168,8 @@ Busco escrever código limpo, testável e orientado a boas práticas.
 <h2>📊 Estatísticas</h2>
 
 <div align="center">
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Zidan-09&show_icons=true&theme=radical&include_all_commits=true" width="380" height="180" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zidan-09&layout=compact&theme=radical" width="380" height="180" />
-  </div>
-
-  <br>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Zidan-09&show_icons=true&theme=radical&include_all_commits=true" width="380" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zidan-09&layout=compact&theme=radical" width="380" height="180" />
+  <br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zidan-09&theme=radical"/>
 </div>
