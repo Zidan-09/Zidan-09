@@ -1,4 +1,5 @@
 
+
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&color=FF5733&center=true&vCenter=true&width=800&lines=Olá,+eu+sou+Samuel+👋;Fullstack+Developer+em+evolução;Sempre+aprendendo+algo+novo+🚀" />
 </h1>
@@ -28,80 +29,76 @@ Busco escrever código limpo, testável e orientado a boas práticas.
 
 ---
 
+
 <h2>🧰 Tecnologias & Stacks</h2>
 
-<table align="center">
+<table align="center" style="border-spacing:20px;">
+
   <tr>
-    <td align="center"><b>⚙️ Backend (Frameworks & Runtime)</b></td>
     <td align="center"><b>🎨 Frontend</b></td>
+    <td align="center"><b>⚙️ Backend</b></td>
   </tr>
 
   <tr>
     <td align="center">
-      <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
-      <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-      <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"/>
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs&theme=dark&perline=6"/>
     </td>
-
-   <td align="center">
-      <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-      <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/>
-      <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-      <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express&theme=dark&perline=4"/>
     </td>
   </tr>
 
   <tr>
-    <td align="center"><b>💻 Linguagens</b></td>
+    <td align="center"><b>📱 Mobile</b></td>
     <td align="center"><b>🗄️ Banco de Dados</b></td>
   </tr>
 
   <tr>
     <td align="center">
-      <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-      <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-      <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
+      <img src="https://skillicons.dev/icons?i=react&theme=dark&perline=1"/>
+      <br>
+      <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
     </td>
-
-   <td align="center">
-      <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
-      <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-      <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"/>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis&theme=dark&perline=4"/>
     </td>
   </tr>
 
   <tr>
-    <td align="center" colspan="2"><b>🛠️ Ferramentas</b></td>
+    <td align="center"><b>🛠️ Tools & DevOps</b></td>
+    <td align="center"><b>🎮 Outros</b></td>
   </tr>
 
   <tr>
-    <td align="center" colspan="2">
-      <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-      <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
-      <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"/>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,vercel&theme=dark&perline=5"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white"/>
     </td>
   </tr>
+
 </table>
 
 <br>
 
-<h3>🗃️ ORM / Persistência</h3>
-<p>
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
-</p>
-
-<h3>🧪 Testes</h3>
-<p>
+<h3>🧪 Testes & Qualidade</h3>
+<p align="center">
   <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Mockito-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
 </p>
 
 <h3>🔌 Integrações & Segurança</h3>
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white"/>
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-token&logoColor=white"/>
   <img src="https://img.shields.io/badge/bcrypt-000000?style=for-the-badge&logo=appveyor&logoColor=white"/>
+</p>
+
+<h3>🗃️ ORM / Persistência</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
 </p>
 
 ---
@@ -129,19 +126,28 @@ Busco escrever código limpo, testável e orientado a boas práticas.
 
 ---
 
+
 <h2>🚀 Projetos em Destaque</h2>
 
-<ul>
-  <li>
-    <a href="https://github.com/Zidan-09/Letra-a-Letra">Letra a Letra</a><br>
-    → Jogo multiplayer competitivo (Spring Boot + WebSocket + Godot + PostgreSQL + Redis)
-  </li>
-  <br>
-  <li>
-    <a href="https://github.com/Zidan-09/simone-festas-application">Simone Festas</a><br>
-    → E-commerce (Next.js + PostgreSQL)
-  </li>
-</ul>
+<div align="center">
+  <div style="width:45%; display:inline-block; margin:10px; border-radius:12px; overflow:hidden; border:1px solid #303030; background:#1e1e1e;">
+    <img src="URL_DA_IMAGEM_LETRA" width="100%"/>
+    <div style="padding:12px; color:white;">
+      <a href="https://github.com/Zidan-09/Letra-a-Letra"><b style="color:white;">Letra a Letra</b></a><br><br>
+      🎮 Jogo multiplayer competitivo inspirado em batalha naval + caça-palavras<br><br>
+      <b>Stack:</b> Spring Boot • WebSocket • Godot • PostgreSQL • Redis
+    </div>
+  </div>
+  <div style="width:45%; display:inline-block; margin:10px; border-radius:12px; overflow:hidden; border:1px solid #303030; background:#1e1e1e;">
+    <img src="URL_DA_IMAGEM_SIMONE" width="100%"/>
+    <div style="padding:12px; color:white;">
+      <a href="https://github.com/Zidan-09/simone-festas-application"><b style="color:white;">Simone Festas</b></a><br><br>
+      🛒 E-commerce para aluguel de artigos de festa<br><br>
+      <b>Stack:</b> Next.js • PostgreSQL • Vercel
+    </div>
+  </div>
+
+</div>
 
 ---
 
