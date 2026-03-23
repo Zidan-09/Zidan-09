@@ -1,4 +1,3 @@
-
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&color=FF5733&center=true&vCenter=true&width=800&lines=Olá,+eu+sou+Samuel+👋;Fullstack+Developer+em+evolução;Sempre+aprendendo+algo+novo+🚀" />
 </h1>
@@ -20,7 +19,8 @@ Busco escrever código limpo, testável e orientado a boas práticas.
 ---
 
 <h3>🔥 Stack Principal</h3>
-<p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -30,118 +30,103 @@ Busco escrever código limpo, testável e orientado a boas práticas.
 
 <h2>🧰 Tecnologias & Stacks</h2>
 
-<table align="center">
+<table align="center" style="border-spacing:20px;">
+
   <tr>
-    <td align="center"><b>⚙️ Backend (Frameworks & Runtime)</b></td>
     <td align="center"><b>🎨 Frontend</b></td>
+    <td align="center"><b>⚙️ Backend</b></td>
   </tr>
 
   <tr>
     <td align="center">
-      <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
-      <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-      <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"/>
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs&theme=dark&perline=6" width="300"/>
     </td>
-
-   <td align="center">
-      <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-      <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/>
-      <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-      <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express&theme=dark&perline=4" width="300"/>
     </td>
   </tr>
 
   <tr>
-    <td align="center"><b>💻 Linguagens</b></td>
+    <td align="center"><b>📱 Mobile</b></td>
     <td align="center"><b>🗄️ Banco de Dados</b></td>
   </tr>
 
   <tr>
     <td align="center">
-      <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-      <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-      <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
+      <img src="https://skillicons.dev/icons?i=react&theme=dark" width="120"/><br><br>
+      <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
     </td>
-
-   <td align="center">
-      <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
-      <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-      <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"/>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis&theme=dark&perline=4" width="300"/>
     </td>
   </tr>
 
   <tr>
-    <td align="center" colspan="2"><b>🛠️ Ferramentas</b></td>
+    <td align="center"><b>🛠️ Tools & DevOps</b></td>
+    <td align="center"><b>🎮 Outros</b></td>
   </tr>
 
   <tr>
-    <td align="center" colspan="2">
-      <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-      <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
-      <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"/>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,vercel&theme=dark&perline=5" width="300"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white"/>
     </td>
   </tr>
+
 </table>
 
 <br>
 
-<h3>🗃️ ORM / Persistência</h3>
-<p>
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
-</p>
-
-<h3>🧪 Testes</h3>
-<p>
+<h3>🧪 Testes & Qualidade</h3>
+<p align="center">
   <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Mockito-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
 </p>
 
 <h3>🔌 Integrações & Segurança</h3>
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white"/>
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-token&logoColor=white"/>
   <img src="https://img.shields.io/badge/bcrypt-000000?style=for-the-badge&logo=appveyor&logoColor=white"/>
 </p>
 
----
-
-<h2>🌱 Soft Skills</h2>
-
-<ul>
-  <li>Trabalho em equipe 🤝</li>
-  <li>Liderança 💼</li>
-  <li>Resolução de problemas 🧩</li>
-  <li>Aprendizado contínuo 📚</li>
-  <li>Criatividade 🎨</li>
-  <li>Gestão de tempo ⏰</li>
-</ul>
-
----
-
-<h2>📚 Atualmente estudando</h2>
-
-<ul>
-  <li>Arquitetura com Spring Boot</li>
-  <li>Testes automatizados</li>
-  <li>Otimização de APIs REST</li>
-</ul>
+<h3>🗃️ ORM / Persistência</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
+</p>
 
 ---
 
 <h2>🚀 Projetos em Destaque</h2>
 
-<ul>
-  <li>
-    <a href="https://github.com/Zidan-09/Letra-a-Letra">Letra a Letra</a><br>
-    → Jogo multiplayer competitivo (Spring Boot + WebSocket + Godot + PostgreSQL + Redis)
-  </li>
-  <br>
-  <li>
-    <a href="https://github.com/Zidan-09/simone-festas-application">Simone Festas</a><br>
-    → E-commerce (Next.js + PostgreSQL)
-  </li>
-</ul>
+<div align="center">
+
+  <a href="https://github.com/Zidan-09/Letra-a-Letra" style="text-decoration:none;">
+    <div style="width:45%; display:inline-block; margin:10px; border-radius:12px; overflow:hidden; border:1px solid #303030; background:#1e1e1e; box-shadow:0 4px 10px rgba(0,0,0,0.4);">
+      <img src="https://image2url.com/r2/default/images/1774297377864-e03e684d-f28f-4ab8-8a76-69164fa48843.png" width="100%"/>
+      <div style="padding:16px; color:white; text-align:left;">
+        <b>Letra a Letra</b><br><br>
+        🎮 Jogo multiplayer competitivo inspirado em batalha naval + caça-palavras<br><br>
+        <b>Stack:</b> Spring Boot • WebSocket • Godot • PostgreSQL • Redis
+      </div>
+    </div>
+  </a>
+
+  <a href="https://github.com/Zidan-09/simone-festas-application" style="text-decoration:none;">
+    <div style="width:45%; display:inline-block; margin:10px; border-radius:12px; overflow:hidden; border:1px solid #303030; background:#1e1e1e; box-shadow:0 4px 10px rgba(0,0,0,0.4);">
+      <img src="https://image2url.com/r2/default/images/1774297452893-d0d5c808-402d-4224-ac24-667bac8aca8a.png" width="100%"/>
+      <div style="padding:16px; color:white; text-align:left;">
+        <b>Simone Festas</b><br><br>
+        🛒 E-commerce para aluguel de artigos de festa<br><br>
+        <b>Stack:</b> Next.js • PostgreSQL • Vercel
+      </div>
+    </div>
+  </a>
+
+</div>
 
 ---
 
@@ -150,12 +135,12 @@ Busco escrever código limpo, testável e orientado a boas práticas.
 <ul>
   <li>
     <a href="https://github.com/Zidan-09/ProjetoInterdiciplinar_GdF">GdF</a><br>
-    → Sistema de gerenciamento de filas (Typescript + MySQL + Estruturas de Dados)
+    → Sistema de gerenciamento de filas (TypeScript + MySQL + Estruturas de Dados)
   </li>
   <br>
   <li>
     <a href="https://github.com/Zidan-09/JogoCriaturas">Creatures Game</a><br>
-    → Jogo de terminal (Typescript + Programação Orientada a Objetos)
+    → Jogo de terminal (TypeScript + POO)
   </li>
 </ul>
 
@@ -168,7 +153,7 @@ Busco escrever código limpo, testável e orientado a boas práticas.
     <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
   </a>
   <a href="https://github.com/Zidan-09">
-	  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
   </a>
 </p>
 
@@ -183,12 +168,8 @@ Busco escrever código limpo, testável e orientado a boas práticas.
 <h2>📊 Estatísticas</h2>
 
 <div align="center">
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Zidan-09&show_icons=true&theme=radical&include_all_commits=true" width="380" height="180" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zidan-09&layout=compact&theme=radical" width="380" height="180" />
-  </div>
-
-  <br>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Zidan-09&show_icons=true&theme=radical&include_all_commits=true" width="380" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zidan-09&layout=compact&theme=radical" width="380" height="180" />
+  <br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zidan-09&theme=radical"/>
 </div>
