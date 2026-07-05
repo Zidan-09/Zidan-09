@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou Samuel
 
 <p align="center">
-  <img src="URL_DO_GIF" alt="Pixel Art Cat Programming" width="700"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnhvM2l1cHJ2cHU0Z3JrNnVpZ2Z6amNpNDFobWtqMTZ4dXF6dXBjZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YfIqRqgD6HxsPTIwfg/giphy.gif" alt="Pixel Art Cat Programming" width="700"/>
 </p>
 
 <p align="center">
