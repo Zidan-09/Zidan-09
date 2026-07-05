@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou Samuel
 
 <p align="center">
-  <div class="tenor-gif-embed" data-postid="13196270081684887089" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/oi-gif-13196270081684887089">Oi Sticker</a>from <a href="https://tenor.com/search/oi-stickers">Oi Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+  <img src="https://tenor.com/view/oi-gif-13196270081684887089"></img>
 </p>
 
 <p align="center">
