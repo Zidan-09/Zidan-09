@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou Samuel
 
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnhvM2l1cHJ2cHU0Z3JrNnVpZ2Z6amNpNDFobWtqMTZ4dXF6dXBjZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YfIqRqgD6HxsPTIwfg/giphy.gif" alt="Pixel Art Cat Programming" width="700"/>
+  <div class="tenor-gif-embed" data-postid="13196270081684887089" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/oi-gif-13196270081684887089">Oi Sticker</a>from <a href="https://tenor.com/search/oi-stickers">Oi Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 </p>
 
 <p align="center">
