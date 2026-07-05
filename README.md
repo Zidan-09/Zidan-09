@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou Samuel
 
 <p align="center">
-  <img src="https://tenor.com/view/oi-gif-13196270081684887089"></img>
+  <img src="" alt="gif de gato programando em pixel art"></img>
 </p>
 
 <p align="center">
