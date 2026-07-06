@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou Samuel
 
 <p align="center">
-  <img src="./assets/base.png" alt="gif de gato programando em pixel art"></img>
+  <img src="./assets/cat.gif" width="90%" alt="gif de gato programando em pixel art"></img>
 </p>
 
 <p align="center">
