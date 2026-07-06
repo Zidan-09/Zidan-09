@@ -46,10 +46,8 @@ Além do desenvolvimento de software, lidero a **Arvenis**, um estúdio independ
 
 # 🎮 Projeto Principal
 
-## Letra a Letra
-
 <p align="center">
-  <img src="./assets/lal.png" width="50%" style="border-radius: 15px;" alt="gif de gato programando em pixel art"></img>
+  <img src="./assets/letraaletra.png" width="50%" alt="gif de gato programando em pixel art"></img>
 </p>
 
 Jogo multiplayer competitivo inspirado em **Batalha Naval** e **Caça-Palavras**.
@@ -97,7 +95,7 @@ Essa experiência fortaleceu meus conhecimentos em arquitetura de software, lide
 
 ---
 
-# 🎮 Arvenis Studio
+# <img src="./assets/arvenis.png" width="12%" align="center"/> Arvenis Studio
 
 A **Arvenis** é um estúdio independente de desenvolvimento de jogos.
 
