@@ -108,7 +108,7 @@ Nosso objetivo é criar experiências criativas, divertidas e tecnicamente bem c
 ## Backend
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,nodejs,fastify,express&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,ts&theme=dark"/>
 </p>
 
 ## Frontend
@@ -126,13 +126,13 @@ Nosso objetivo é criar experiências criativas, divertidas e tecnicamente bem c
 ## Ferramentas
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,docker,idea,vscode,vercel&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,idea,vscode,vercel,cloudflare&theme=dark"/>
 </p>
 
-## Game Development
+## Extras
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=godot&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=godot,md,hibernate,prisma,vite,npm,maven,powershell&theme=dark"/>
 </p>
 
 ---
