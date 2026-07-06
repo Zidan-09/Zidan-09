@@ -72,7 +72,6 @@ O projeto está sendo desenvolvido pelo estúdio **Arvenis** e representa atualm
 |----------|-----------|-------------|
 | **🎮 Letra a Letra** | Jogo multiplayer competitivo em desenvolvimento. | Java • Spring Boot • Godot • PostgreSQL • Redis |
 | **🛒 Simone Festas** | Plataforma para aluguel de artigos para festas. | Next.js • PostgreSQL |
-| **🎲 Creatures Game** | Jogo de terminal desenvolvido aplicando conceitos de Programação Orientada a Objetos. | TypeScript |
 
 ---
 
@@ -84,12 +83,14 @@ Durante o desenvolvimento deste projeto atuei como **líder da equipe**, sendo r
 
 O projeto foi desenvolvido utilizando:
 
-- Fastify
-- TypeScript
-- DDD
-- Clean Architecture
-- SOLID
-- GitFlow
+<p align="center">
+
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
+![DDD](https://img.shields.io/badge/DDD-111827?style=for-the-badge) ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-111827?style=for-the-badge) ![SOLID](https://img.shields.io/badge/SOLID-111827?style=for-the-badge)
+![GitFlow](https://img.shields.io/badge/GitFlow-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</p>
 
 Essa experiência fortaleceu meus conhecimentos em arquitetura de software, liderança técnica e desenvolvimento colaborativo.
 
@@ -160,11 +161,11 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zidan-09&lay
 <p align="center">
 
 <a href="https://github.com/Zidan-09">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/samuel-nascimento-fullstack">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </p>
