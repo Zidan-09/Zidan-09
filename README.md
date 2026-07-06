@@ -146,11 +146,11 @@ Nosso objetivo é criar experiências criativas, divertidas e tecnicamente bem c
 
 <img
 height="170"
-src="https://github-readme-stats.vercel.app/api?username=Zidan-09&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true"/>
+src="https://github-readme-stats.vercel.app/api?username=Zidan-09&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&cache_seconds=1800"/>
 
 <img
 height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zidan-09&layout=compact&theme=github_dark&hide_border=true"/>
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zidan-09&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800"/>
 
 </p>
 
