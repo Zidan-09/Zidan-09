@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou Samuel
 
 <p align="center">
-  <img src="" alt="gif de gato programando em pixel art"></img>
+  <img src="./assets/base.png" alt="gif de gato programando em pixel art"></img>
 </p>
 
 <p align="center">
@@ -47,6 +47,10 @@ Além do desenvolvimento de software, lidero a **Arvenis**, um estúdio independ
 # 🎮 Projeto Principal
 
 ## Letra a Letra
+
+<p align="center">
+  <img src="./assets/lal.png" width="50%" style="border-radius: 15px;" alt="gif de gato programando em pixel art"></img>
+</p>
 
 Jogo multiplayer competitivo inspirado em **Batalha Naval** e **Caça-Palavras**.
 
