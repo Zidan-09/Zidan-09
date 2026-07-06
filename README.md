@@ -39,7 +39,7 @@ Além do desenvolvimento de software, lidero a **Arvenis**, um estúdio independ
 # ⚙️ Stack Principal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,nodejs,ts,prisma,react,nextjs,vite,postgres,mysql,redis,docker,cloudflare,githubactions,git,github,npm,maven,idea,vscode,godot,md,powershell&theme=dark&perline=12"/>
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,postgres,redis,docker,git,github,idea&theme=dark"/>
 </p>
 
 ---
